@@ -1,6 +1,6 @@
 {
   "homepage": "https://neeopixel.github.io/react-template/",
-  "name": "login-signup",
+  "name": "react-template",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
