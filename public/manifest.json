@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "React-template",
+  "name": "Create React Firebase App with this template ",
   "icons": [
     {
       "src": "favicon.ico",
